@@ -57,7 +57,7 @@ else
 fi
 
 # Set log file location
-LOG_FILE="$DEFAULT_LOG_DIR/organize_downloads.log"
+LOG_FILE="$DEFAULT_LOG_DIR/organize.log"
 
 # Function to log messages with timestamp
 log_message() {
